@@ -1,3 +1,4 @@
+
 🎯 Qu'est-ce que c'est ?
 Un moteur de recommandation musicale qui analyse 232,725 chansons Spotify pour vous suggérer des morceaux similaires à ceux que vous aimez.
 Exemple : Vous aimez "Bohemian Rhapsody" ? Le système vous recommande "Don't Stop Me Now", "We Will Rock You" et d'autres chansons rock classiques.
@@ -29,7 +30,8 @@ Ajuster l'importance de chaque critère
 Exclure certains artistes
 Contrôler le nombre de recommandations
 
-
+Dataset : https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+Fichier : SpotifyFeatures.csv
 🚀 Ce qui rend ce projet unique
 💡 Approche Hybride Multi-Niveaux
 Contrairement aux systèmes simples qui utilisent une seule méthode, ce projet combine 3 techniques avancées :
